@@ -18,14 +18,15 @@
 * 实现方式
 
   * Kahn算法
+    * 具体步骤为：
+      1. 取出一个入度为0的顶点
+      2. 
 
   代码如下：
 
   [https://github.com/aragorn-wu/algorithm/blob/master/src/main/java/com/git/algorithm/graph/TopologicalOrder.java](#)
 
   * 深度优先算法
-
-
 
 
 
