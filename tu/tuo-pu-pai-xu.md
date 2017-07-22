@@ -15,7 +15,7 @@
 
 * **拓扑序列（其中一种）：1,13,4,8,14,15,5,2,3,10,11,12,7,6,9**
 
-* 代码[https://github.com/deadking01/algorithm.git/algorithm/src/main/java/com/git/algorithm/graph/TopologicalOrder.java](https://github.com/deadking01/algorithm.git/algorithm/src/main/java/com/git/algorithm/graph/TopologicalOrder.java)
+* 代码[https://github.com/aragorn-wu/algorithm/blob/master/src/main/java/com/git/algorithm/graph/TopologicalOrder.java](https://github.com/aragorn-wu/algorithm/blob/master/src/main/java/com/git/algorithm/graph/TopologicalOrder.java)
 
 
 
