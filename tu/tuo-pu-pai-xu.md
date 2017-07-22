@@ -17,7 +17,9 @@
 
 * 实现方式
 
-1. Kahn算法
+* Kahn算法
+
+代码如下：
 
 [https://github.com/aragorn-wu/algorithm/blob/master/src/main/java/com/git/algorithm/graph/TopologicalOrder.java](#)
 
